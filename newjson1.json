@@ -1,0 +1,657 @@
+{
+    "data": [{
+            "type": "videos",
+            "id": 1696851,
+            "relationships": {
+                "channels": {
+                    "data": {
+                        "type": "channels",
+                        "id": 69
+                    }
+                }
+            },
+            "attributes": {
+                "duration": 841,
+                "medium_thumb_thumbnail": null,
+                "is_facebook_video": false,
+                "created": "2016-06-03T15:50:31.788139",
+                "is_manual_upload": false,
+                "name": "WWE Royal Rumble 2016 Full Match - Part 1",
+                "thumbnail_url": "https:\/\/i.ytimg.com\/vi\/bRfKe6rZlfU\/hqdefault.jpg",
+                "type": "video"
+            }
+        }, {
+            "type": "videos",
+            "id": 1679281,
+            "relationships": {
+                "channels": {
+                    "data": {
+                        "type": "channels",
+                        "id": 352
+                    }
+                }
+            },
+            "attributes": {
+                "duration": 0,
+                "medium_thumb_thumbnail": "Video\/medium_thumb\/1679281\/0a36afdde48f95a4a9c4cb258fd92f21.jpg",
+                "is_facebook_video": false,
+                "created": "2016-05-26T16:13:33.282Z",
+                "is_manual_upload": true,
+                "name": "Aavaj Vadhav DJ Tula Aaichi Shapath Full by Vinod Shinde",
+                "thumbnail_url": "VideoThumbnail\/1464279287-1679281-00001.png",
+                "type": "video"
+            }
+        }],
+    "included": [{
+            "relationships": {
+                "genres": {
+                    "data": {
+                        "id": 836,
+                        "type": "genres"
+                    }
+                }
+            },
+            "attributes": {
+                "very_small_thumb_profile_image": "Channel\/very_small_thumb\/352\/02873692c313b8feae180507ce4c933b.jpg",
+                "profile_image": "Channel\/352\/fb-user.jpg",
+                "color": null,
+                "name": "Kid Rock",
+                "channel_follower_count": "3",
+                "slug": "kid-rock"
+            },
+            "id": "352",
+            "type": "channels"
+        }, {
+            "type": "channels",
+            "id": "69",
+            "relationships": {
+                "genres": {
+                    "data": {
+                        "type": "genres",
+                        "id": 108
+                    }
+                }
+            },
+            "attributes": {
+                "very_small_thumb_profile_image": "Channel\/very_small_thumb\/69\/a8cc1f03cd7408edddeff2471873e544.jpg",
+                "profile_image": "Channel\/69\/modamob-Channel-Icon.jpg",
+                "color": null,
+                "name": "ModaMob",
+                "channel_follower_count": "2",
+                "slug": "modamob"
+            }
+        }, {
+            "relationships": {
+                "genres": {
+                    "data": {
+                        "id": 836,
+                        "type": "genres"
+                    }
+                }
+            },
+            "attributes": {
+                "very_small_thumb_profile_image": "Channel\/very_small_thumb\/352\/02873692c313b8feae180507ce4c933b.jpg",
+                "profile_image": "Channel\/352\/fb-user.jpg",
+                "color": null,
+                "name": "Kid Rock",
+                "channel_follower_count": "3",
+                "slug": "kid-rock"
+            },
+            "id": "352",
+            "type": "channels"
+        }, {
+            "relationships": {
+                "genres": {
+                    "data": {
+                        "id": 836,
+                        "type": "genres"
+                    }
+                }
+            },
+            "attributes": {
+                "very_small_thumb_profile_image": "Channel\/very_small_thumb\/352\/02873692c313b8feae180507ce4c933b.jpg",
+                "profile_image": "Channel\/352\/fb-user.jpg",
+                "color": null,
+                "name": "Kid Rock",
+                "channel_follower_count": "3",
+                "slug": "kid-rock"
+            },
+            "id": "352",
+            "type": "channels"
+        }, {
+            "relationships": {
+                "genres": {
+                    "data": {
+                        "id": 836,
+                        "type": "genres"
+                    }
+                }
+            },
+            "attributes": {
+                "very_small_thumb_profile_image": "Channel\/very_small_thumb\/352\/02873692c313b8feae180507ce4c933b.jpg",
+                "profile_image": "Channel\/352\/fb-user.jpg",
+                "color": null,
+                "name": "Kid Rock",
+                "channel_follower_count": "3",
+                "slug": "kid-rock"
+            },
+            "id": "352",
+            "type": "channels"
+        }, {
+            "relationships": {
+                "genres": {
+                    "data": {
+                        "id": 836,
+                        "type": "genres"
+                    }
+                }
+            },
+            "attributes": {
+                "very_small_thumb_profile_image": "Channel\/very_small_thumb\/352\/02873692c313b8feae180507ce4c933b.jpg",
+                "profile_image": "Channel\/352\/fb-user.jpg",
+                "color": null,
+                "name": "Kid Rock",
+                "channel_follower_count": "3",
+                "slug": "kid-rock"
+            },
+            "id": "352",
+            "type": "channels"
+        }, {
+            "relationships": {
+                "genres": {
+                    "data": {
+                        "id": 836,
+                        "type": "genres"
+                    }
+                }
+            },
+            "attributes": {
+                "very_small_thumb_profile_image": "Channel\/very_small_thumb\/352\/02873692c313b8feae180507ce4c933b.jpg",
+                "profile_image": "Channel\/352\/fb-user.jpg",
+                "color": null,
+                "name": "Kid Rock",
+                "channel_follower_count": "3",
+                "slug": "kid-rock"
+            },
+            "id": "352",
+            "type": "channels"
+        }, {
+            "relationships": {
+                "genres": {
+                    "data": {
+                        "id": 836,
+                        "type": "genres"
+                    }
+                }
+            },
+            "attributes": {
+                "very_small_thumb_profile_image": "Channel\/very_small_thumb\/352\/02873692c313b8feae180507ce4c933b.jpg",
+                "profile_image": "Channel\/352\/fb-user.jpg",
+                "color": null,
+                "name": "Kid Rock",
+                "channel_follower_count": "3",
+                "slug": "kid-rock"
+            },
+            "id": "352",
+            "type": "channels"
+        }, {
+            "relationships": {
+                "genres": {
+                    "data": {
+                        "id": 836,
+                        "type": "genres"
+                    }
+                }
+            },
+            "attributes": {
+                "very_small_thumb_profile_image": "Channel\/very_small_thumb\/352\/02873692c313b8feae180507ce4c933b.jpg",
+                "profile_image": "Channel\/352\/fb-user.jpg",
+                "color": null,
+                "name": "Kid Rock",
+                "channel_follower_count": "3",
+                "slug": "kid-rock"
+            },
+            "id": "352",
+            "type": "channels"
+        }, {
+            "relationships": {
+                "genres": {
+                    "data": {
+                        "id": 836,
+                        "type": "genres"
+                    }
+                }
+            },
+            "attributes": {
+                "very_small_thumb_profile_image": "Channel\/very_small_thumb\/352\/02873692c313b8feae180507ce4c933b.jpg",
+                "profile_image": "Channel\/352\/fb-user.jpg",
+                "color": null,
+                "name": "Kid Rock",
+                "channel_follower_count": "3",
+                "slug": "kid-rock"
+            },
+            "id": "352",
+            "type": "channels"
+        }, {
+            "relationships": {
+                "genres": {
+                    "data": {
+                        "id": 836,
+                        "type": "genres"
+                    }
+                }
+            },
+            "attributes": {
+                "very_small_thumb_profile_image": "Channel\/very_small_thumb\/352\/02873692c313b8feae180507ce4c933b.jpg",
+                "profile_image": "Channel\/352\/fb-user.jpg",
+                "color": null,
+                "name": "Kid Rock",
+                "channel_follower_count": "3",
+                "slug": "kid-rock"
+            },
+            "id": "352",
+            "type": "channels"
+        }, {
+            "relationships": {
+                "genres": {
+                    "data": {
+                        "id": 836,
+                        "type": "genres"
+                    }
+                }
+            },
+            "attributes": {
+                "very_small_thumb_profile_image": "Channel\/very_small_thumb\/352\/02873692c313b8feae180507ce4c933b.jpg",
+                "profile_image": "Channel\/352\/fb-user.jpg",
+                "color": null,
+                "name": "Kid Rock",
+                "channel_follower_count": "3",
+                "slug": "kid-rock"
+            },
+            "id": "352",
+            "type": "channels"
+        }, {
+            "relationships": {
+                "genres": {
+                    "data": {
+                        "id": 836,
+                        "type": "genres"
+                    }
+                }
+            },
+            "attributes": {
+                "very_small_thumb_profile_image": "Channel\/very_small_thumb\/352\/02873692c313b8feae180507ce4c933b.jpg",
+                "profile_image": "Channel\/352\/fb-user.jpg",
+                "color": null,
+                "name": "Kid Rock",
+                "channel_follower_count": "3",
+                "slug": "kid-rock"
+            },
+            "id": "352",
+            "type": "channels"
+        }, {
+            "relationships": {
+                "genres": {
+                    "data": {
+                        "id": 836,
+                        "type": "genres"
+                    }
+                }
+            },
+            "attributes": {
+                "very_small_thumb_profile_image": "Channel\/very_small_thumb\/352\/02873692c313b8feae180507ce4c933b.jpg",
+                "profile_image": "Channel\/352\/fb-user.jpg",
+                "color": null,
+                "name": "Kid Rock",
+                "channel_follower_count": "3",
+                "slug": "kid-rock"
+            },
+            "id": "352",
+            "type": "channels"
+        }, {
+            "relationships": {
+                "genres": {
+                    "data": {
+                        "id": 836,
+                        "type": "genres"
+                    }
+                }
+            },
+            "attributes": {
+                "very_small_thumb_profile_image": "Channel\/very_small_thumb\/352\/02873692c313b8feae180507ce4c933b.jpg",
+                "profile_image": "Channel\/352\/fb-user.jpg",
+                "color": null,
+                "name": "Kid Rock",
+                "channel_follower_count": "3",
+                "slug": "kid-rock"
+            },
+            "id": "352",
+            "type": "channels"
+        }, {
+            "type": "channels",
+            "id": "352",
+            "relationships": {
+                "genres": {
+                    "data": {
+                        "type": "genres",
+                        "id": 836
+                    }
+                }
+            },
+            "attributes": {
+                "very_small_thumb_profile_image": "Channel\/very_small_thumb\/352\/02873692c313b8feae180507ce4c933b.jpg",
+                "profile_image": "Channel\/352\/fb-user.jpg",
+                "color": null,
+                "name": "Kid Rock",
+                "channel_follower_count": "3",
+                "slug": "kid-rock"
+            }
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "Fashion Trends"
+            },
+            "id": 108,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "Fashion Trends"
+            },
+            "id": 108,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "Fashion Trends"
+            },
+            "id": 108,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "Fashion Trends"
+            },
+            "id": 108,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "Fashion Trends"
+            },
+            "id": 108,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "type": "genres",
+            "id": 108,
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "Fashion Trends"
+            }
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            },
+            "id": 836,
+            "type": "genres"
+        }, {
+            "type": "genres",
+            "id": 836,
+            "attributes": {
+                "small_thumb_thumbnail": null,
+                "color": null,
+                "name": "test smart videos sub"
+            }
+        }],
+    "links": {
+        "next": "http:\/\/api.gtvstaging.com\/public\/api\/v1\/networks\/1\/homevideos?domain_id=1&page[offset]=2&page[limit]=2"
+    }
+}
